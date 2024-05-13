@@ -1,0 +1,9 @@
+{
+	"name": "rsyv",
+	"location": "germanywestcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9d3814db-8da4-41bc-8588-7e7005f44405",
+		"tenantId": "0f79e04e-04f8-428d-b8dd-8c3375ac174a"
+	}
+}
