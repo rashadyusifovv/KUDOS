@@ -32,7 +32,7 @@
 				}
 			},
 			{
-				"name": "CopyBatchesOfObjectsSequentially",
+				"name": "CopyBatchesOfObjects",
 				"description": "Come up with the number of sequential batches based on the max allowed concurrent copy tasks, and then execute another pipeline to copy different batches sequentially.",
 				"type": "ForEach",
 				"dependsOn": [
