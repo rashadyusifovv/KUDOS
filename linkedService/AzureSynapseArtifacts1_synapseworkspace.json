@@ -1,0 +1,12 @@
+{
+	"name": "AzureSynapseArtifacts1_synapseworkspace",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSynapseArtifacts",
+		"typeProperties": {
+			"endpoint": "https://rsyvworkspace1.dev.azuresynapse.net",
+			"authentication": "MSI",
+			"workspaceResourceId": "/subscriptions/917fe550-b8ec-493f-bd35-5809055d8c9d/resourceGroups/azurersyv/providers/Microsoft.Synapse/workspaces/rsyvworkspace1"
+		}
+	}
+}
