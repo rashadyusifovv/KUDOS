@@ -104,6 +104,8 @@
 			{
 				"name": "Notebook1",
 				"type": "SynapseNotebook",
+				"state": "Inactive",
+				"onInactiveMarkAs": "Succeeded",
 				"dependsOn": [
 					{
 						"activity": "CopyBatchesOfObjectsSequentially",
