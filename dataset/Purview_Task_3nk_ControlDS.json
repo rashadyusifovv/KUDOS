@@ -1,0 +1,19 @@
+{
+	"name": "Purview_Task_3nk_ControlDS",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "source_SQL_Database",
+			"type": "LinkedServiceReference"
+		},
+		"folder": {
+			"name": "Purview_Task_3nk_20240805"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "",
+			"table": "control_purview"
+		}
+	}
+}
